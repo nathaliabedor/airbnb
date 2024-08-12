@@ -6,6 +6,8 @@ This repository contains an analysis of the Boston Airbnb dataset, aimed at unco
 
 Boston is a popular destination with a diverse range of Airbnb listings. Understanding the dynamics of this market can help travelers make informed decisions, hosts optimize their listings, and provide a valuable case study for data science enthusiasts. This project analyzes when the busiest times are, how prices and property types vary by neighborhood, and which factors impact rating scores.
 
+For a non-technical overview of the findings, check out our [Medium article](https://medium.com/@nathaliabedor/unlocking-bostons-airbnb-secrets-what-you-need-to-know-before-booking-54bdf426377d).
+
 ## Libraries Used
 
 The following Python libraries were used to perform the analysis and create visualizations:
@@ -47,3 +49,4 @@ These findings can guide both travelers and hosts in making informed decisions.
 ---
 
 Feel free to explore the notebook for detailed code and insights, and stay tuned for more updates and improvements!
+
